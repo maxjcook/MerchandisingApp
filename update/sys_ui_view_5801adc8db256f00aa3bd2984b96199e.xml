@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>merchandising_view</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>mcook</sys_created_by>
+        <sys_created_on>2018-10-29 15:14:09</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>5801adc8db256f00aa3bd2984b96199e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>merchandising view</sys_name>
+        <sys_package display_value="Merchandising" source="x_huhll_merchandis">198211abdb8de300aa3bd2984b9619f7</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Merchandising">198211abdb8de300aa3bd2984b9619f7</sys_scope>
+        <sys_update_name>sys_ui_view_5801adc8db256f00aa3bd2984b96199e</sys_update_name>
+        <sys_updated_by>mcook</sys_updated_by>
+        <sys_updated_on>2018-10-29 15:14:09</sys_updated_on>
+        <title>merchandising view</title>
+        <user/>
+    </sys_ui_view>
+</record_update>
